@@ -12,7 +12,8 @@
 
 ### 1. RFM_deepseek.ipynb
 Jupyter Notebook 文件，包含 RFM 分析的核心代码和实现逻辑。render.html是对应的RFM模型3D数据渲染，便于直观理解！渲染图如下：
-![输入图片说明](PowerBI%E7%9C%8B%E6%9D%BF%E6%90%AD%E5%BB%BA%E9%A1%B9%E7%9B%AE/images/RFM%E6%A8%A1%E5%9E%8B3D%E6%B8%B2%E6%9F%93.png)
+<img width="656" height="389" alt="RFM模型3D渲染" src="https://github.com/user-attachments/assets/388843dd-c3d3-4ee8-ac61-6815f1288374" />
+
 
 ### 2. 基于RFM模型的咖啡品牌用户分层与消费特征分析.ipynb 
 该文件是 **主要分析的主体** ，对差不多10万条某电商销售数据进行分析，分析的板块有以下：
@@ -34,10 +35,12 @@ Jupyter Notebook 文件，包含 RFM 分析的核心代码和实现逻辑。rend
 - 开发同比分析柱状图，运用时间智能函数（SAMEPERIODLASTYEAR）对比本期与去年同期数据，差异化颜色标记业绩优劣。
 
 搭建流程：
-![输入图片说明](PowerBI%E7%9C%8B%E6%9D%BF%E6%90%AD%E5%BB%BA%E9%A1%B9%E7%9B%AE/images/%E6%90%AD%E5%BB%BA%E6%B5%81%E7%A8%8B.png)
+<img width="302" height="267" alt="搭建流程" src="https://github.com/user-attachments/assets/e6b66cbe-9a16-40bb-9ab9-74b537fd9fd4" />
+
 
 看板效果图如下：
-![输入图片说明](PowerBI%E7%9C%8B%E6%9D%BF%E6%90%AD%E5%BB%BA%E9%A1%B9%E7%9B%AE/images/%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA.png)
+<img width="754" height="425" alt="成果展示" src="https://github.com/user-attachments/assets/800a8e97-cbba-41ef-b8d9-212ce47fbbd3" />
+
 
 
 
