@@ -36,10 +36,12 @@ Jupyter Notebook 文件，包含 RFM 分析的核心代码和实现逻辑。rend
 - 开发同比分析柱状图，运用时间智能函数（SAMEPERIODLASTYEAR）对比本期与去年同期数据，差异化颜色标记业绩优劣。
 
 搭建流程：
+
 <img width="302" height="267" alt="搭建流程" src="https://github.com/user-attachments/assets/e6b66cbe-9a16-40bb-9ab9-74b537fd9fd4" />
 
 
 看板效果图如下：
+
 <img width="754" height="425" alt="成果展示" src="https://github.com/user-attachments/assets/800a8e97-cbba-41ef-b8d9-212ce47fbbd3" />
 
 
