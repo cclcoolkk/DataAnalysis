@@ -12,6 +12,7 @@
 
 ### 1. RFM_deepseek.ipynb
 Jupyter Notebook 文件，包含 RFM 分析的核心代码和实现逻辑。render.html是对应的RFM模型3D数据渲染，便于直观理解！渲染图如下：
+
 <img width="656" height="389" alt="RFM模型3D渲染" src="https://github.com/user-attachments/assets/388843dd-c3d3-4ee8-ac61-6815f1288374" />
 
 
@@ -35,6 +36,7 @@ Jupyter Notebook 文件，包含 RFM 分析的核心代码和实现逻辑。rend
 - 开发同比分析柱状图，运用时间智能函数（SAMEPERIODLASTYEAR）对比本期与去年同期数据，差异化颜色标记业绩优劣。
 
 搭建流程：
+
 <img width="302" height="267" alt="搭建流程" src="https://github.com/user-attachments/assets/e6b66cbe-9a16-40bb-9ab9-74b537fd9fd4" />
 
 
